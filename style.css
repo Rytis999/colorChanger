@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(224, 176, 176);
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    border: none;
+    border-radius: 12px;
+    font-size: 24px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    cursor: pointer;
+    color: #a08f8f;
+    background-color: bisque;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    color: azure;
+    text-shadow: rgb(224, 176, 176)
+}
